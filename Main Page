@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sea Level Rise</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #2e8b57;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(to top, #2e8b57, #005d94);
+      color: #fff;
+      padding: 1rem 0;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      max-width: 960px;
+      margin: 20px auto;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 15px;
+    }
+    section {
+      margin-bottom: 40px;
+      padding: 20px;
+      background-color: #f7f7f7;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    section:last-of-type {
+      border-bottom: none;
+    }
+    h1, h2 {
+      color: #0000bff;
+    }
+    h3 {
+      color: #0000bff;
+    }
+    section p {
+      color: #333;
+      padding: 0;
+      border-radius: 0;
+    }
+    h4 {
+      margin-left: 20px;
+      color: #0000bff;
+    }
+    h5 {
+      margin-left: 40px;
+      color: #0000bff;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #333;
+      color: #fff;
+      font-size: 0.8rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sea Level Rise</h1>
+  </header>
+  <main>
+    <section>
+      <h2><a href="#what-you-can-do-target">What You Can Do</a></h2>
+    </section>
+    <section>
+      <h2>What's Causing Sea Level Rise?</h2>
+      <p>Sea level rise is the process of water levels rising due to global warming. With the atmosphere warming up, water is expanding and ice is melting, increasing the overall volume of the ocean. This is happening because emissions from burning fossil fuels and landfills are adding <a href="greenhouse-gases.html">greenhouse gases</a> to the atmosphere. The Sun’s energy warms the planet, but some is reflected back into space. Greenhouse gases fill the atmosphere and absorb most of the heat, reheating the Earth instead of letting it eventually go back to space. In addition to the water expanding, ice and glaciers are melting. This not only adds water to the ocean, but also destroys many animals’ habitats. Some effects of sea level rise are coastal erosion and the loss of land, both of which are destroying more habitats and endangering animals including people.</p>
+    </section>
+    <section>
+      <h2>Future Sea Level Rise Predictions</h2>
+      <p>By 2100 the sea level has a 66% likelihood of rising 3 feet/ 1 meter.</p>
+      <img src="SeaLevelRise.png" alt="Sea Level Rise Predictions Chart">
+    </section>
+    <section>
+      <h2>How to Combat Sea Level Rise</h2>
+      <h3>Switch to Renewable Energy</h3>
+      <p>Turning away from fossil fuels is arguably the most important part of combating sea level rise and global warming. There are multiple things we can do to mitigate the effects and even counteract it, but if we don’t stop contributing to it, it will never cease. Using <a href="renewable-energy.html">renewable energy</a> like wind, solar, and water is thousands of times better for the environment. Even nuclear energy is more beneficial though it isn’t renewable. </p>
+      <h3>Rehabilitate Forests</h3>
+      <p>Helping to increase and protect Earth’s forests will also help fight sea level rise. Forests absorb almost 16 million metric tons of carbon dioxide per year which slows the warming of the atmosphere and thereby the oceans.</p>
+      <h3>Hard Shoreline Maintenance</h3>
+      <p>Hard shoreline maintenance means using man-made things like sea walls to control sea level rise. </p>
+        <h4>Sea Walls and Flood Barriers</h4>
+        <p>Sea walls can be built along coasts to stop erosion and flooding and protect against storm surges. Unfortunately, these aren’t optimal for long term prevention as sea level rise in the future could render them useless.</p>
+      <h3>Soft Shoreline Maintenance</h3>
+      <p>Soft shoreline maintenance means using natural things like dunes to help fight sea level rise. It’s generally more eco-friendly, sustainable in the long run, and cost efficient.</p>
+        <h4>Create Living Shorelines/Wetlands</h4>
+        <p>Wetlands are a natural protection against sea level rise. They control the flow of floodwaters inland and protect against erosion. This solution is not only adaptable to changing environments, but it’s also economically sustainable. We can grow more and protect living shorelines and get coastal wetland to expand inland so they’ll protect more land. Another part of this is rehabilitating and protecting mangrove groves. This is impactful because mangroves help stabilize the flood which prevents erosion and they help mitigate the effect of storm surges and waves.</p>
+        <h4>Protect Native Species</h4>
+        <p>Protecting wildlife helps combat global warming because animals remove billions of tons of carbon dioxide. Native species also help protect their habitats and keep the balance of the environment. This is beneficial on a global level because coastal, marine, and forest habitats do combat climate change.</p>
+        <h4>Oyster Reefs</h4>
+        <p>As oysters grow, they become rock-like and home for many marine lifeforms. Oysters also eat by filtering algae out of the water so they create places with amazing water quality. Some research says that a single oyster can filter 50 gallons of water per day. In addition, they can also combat erosion. Oyster reefs can firm up the seafloor which, in turn, protects against waves. Because of this, they can also protect coastal wetlands.</p>
+        <h4>Coastal Dunes</h4>
+        <p>Coastal dunes help protect against storm surges and waves. This helps mitigate erosion and possibly best of all, it helps with carbon sequestration. This means that the dunes trap carbon dioxide, and so slows climate change.</p>
+    </section>
+    <section id="what-you-can-do-target">
+      <h2>What You Can Do</h2>
+      <p>Even small things can help. Doing a simple beach clean up can make a big impact. It can help protect the local marine ecosystem which, in turn, will help fight global warming. If that pollution were to remain there, the ecosystem would have been taken over by erosion and sea level rise.</p>
+      <p>You can also help support organizations and companies that are working on this problem. Simple donations and volunteer work can go a long way. Some options are The Nature Conservancy (TNC), Surfrider Foundation, and Save the Bay.</p>
+      <p>If you’re not ready to commit to anything bigger, just teaching other people about this problem can spread awareness and gain help in this field.</p>
+      <p>The biggest impact of all though,is helping to implement one of the methods to combat sea level rise whether it's in your own neighborhood or in an organization spreed across the world.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 Sea Level Rise Info</p>
+  </footer>
+</body>
+</html>
